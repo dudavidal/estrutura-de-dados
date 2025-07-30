@@ -1,3 +1,7 @@
+<p align="center" style="font-size: 1.5rem;">
+  🌸 👩‍💻 🤓
+</p>
+
 # 📚 Estruturas de Dados em C
 
 Este repositório foi criado com o objetivo de praticar e reforçar meus conhecimentos em **Estruturas de Dados**, focando nos principais conceitos de **Pilhas**, **Filas** e **Listas**.
